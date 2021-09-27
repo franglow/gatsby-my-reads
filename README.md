@@ -1,54 +1,34 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# A Book Tracking App
 
-## 🚀 Quick start
+As part of Udacity React Nanodegree this is the first project. Freshly **rewrite** using GatsbyJS, React Hooks and React Context. Bringing all data in from a RestAPI provided by Udacity.
+SPA that allows you to select and categorize books you have read, are currently reading, or want to read.
 
-1.  **Create a Gatsby site.**
+## Getting Started
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+### Prerequisites
 
-2.  **Start developing.**
+If you want to add improvements just need to have a little knowledge of javascript and a many learning desires.
 
-    Navigate into your new site’s directory and start it up.
+### Installing
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+1. clone the project - `git clone https://github.com/franglow/react-first-myreads.git`
+2. install its dependencies - `npm install`
+3. start the server - `npm start`
+4. a new browser tab will be open with the app running
 
-3.  **Open the code and start customizing!**
+## Running the tests
 
-    Your site is now running at http://localhost:8000!
+Not implemented yet.
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+## Authors
 
-4.  **Learn more**
+- **Fran Cortez**
+- **Udacity** - _CSS Styles_, _RestAPI_ - [Udacity](https://www.udacity.com/)
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+See also the list of [contributors](https://github.com/franglow/react-first-myreads/contributors) who participated in this project.
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+## Acknowledgments
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+- Udacity.
