@@ -13,7 +13,7 @@ If you want to add improvements just need to have a little knowledge of javascri
 
 ### Installing
 
-1. clone the project - `git clone https://github.com/franglow/react-first-myreads.git`
+1. clone the project - `git clone https://github.com/franglow/gatsby-my-reads.git`
 2. install its dependencies - `npm install`
 3. start the server - `npm start`
 4. a new browser tab will be open with the app running
